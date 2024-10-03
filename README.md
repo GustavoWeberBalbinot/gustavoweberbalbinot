@@ -1,7 +1,7 @@
 ## **About me**
 
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/9c/c5/3d/9cc53d773b11df8bf93737eef1b0757b.gif" />
+<img align="right" width="265" src="https://i.pinimg.com/originals/9c/c5/3d/9cc53d773b11df8bf93737eef1b0757b.gif" />
 
 ```Python
 def me():
